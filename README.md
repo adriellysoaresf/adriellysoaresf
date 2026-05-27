@@ -1,7 +1,9 @@
 <div align="center">
 
 # 「 ✦ Seja bem-vindo(a) ao meu GitHub ✦ 」
-### Adrielly Soares
+#### Adrielly Soares
+
+<br>
 
 ### pretty girl loves coding <𝟑 .ᐟ
 
@@ -13,7 +15,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="SEU_GITHUB">
+<a href="https://github.com/adriellysoaresf">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -24,15 +26,14 @@
 </div>
 
 
-## ⏾⋆.˚ sobre mim
+## ｡𖦹 Quem sou eu
 
 ```txt
-Oii! Eu sou Adrielly :)
+Oii, prazer! Adrielly :)
 
-*aprendendo front-end
-*explorando design
-*criando projetos
-
+aprendendo front-end
+explorando design
+criando projetos ✦
 ```
 
 
@@ -49,7 +50,7 @@ Oii! Eu sou Adrielly :)
 </p>
 
 
-## ☁︎ Atualmente estudando
+## ✶ Atualmente aprendendo
 
 <p align="center">
 
@@ -67,9 +68,9 @@ Oii! Eu sou Adrielly :)
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adriellysoaresf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=adriellysoaresf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriellysoaresf&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriellysoaresf&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
