@@ -2,7 +2,7 @@
 
 # Welcome to Adrielly's Github 🌙
 
-### vivendo, aprendendo e construindo aos poucos.
+### pretty girl loves coding <3
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=C8B6E2&center=true&vCenter=true&width=500&lines=Estudante+de+Front-end;Aprendendo+algo+novo+todos+os+dias;Criando+e+explorando+tecnologia"/>
 
@@ -24,17 +24,16 @@
 
 ---
 
-## 🪻 Sobre mim
+## 🪻 currently
 
 ```txt
 cada projeto é uma nova tentativa,
 cada erro faz parte do processo.
 ```
 
-* 🎨 criando interfaces no Figma
-* 💻 explorando HTML, CSS e JavaScript
-* 🌱 aprendendo Front-end e Back-end
-* ☁️ evoluindo um pouco todos os dias
+aprendendo front-end
+explorando design
+criando projetos
 
 ---
 
@@ -83,7 +82,7 @@ cada erro faz parte do processo.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://streak-stats.demolab.com?user=adriellysoaresf&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
