@@ -6,6 +6,20 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=C8B6E2&center=true&vCenter=true&width=500&lines=Estudante+de+Front-end;Aprendendo+algo+novo+todos+os+dias;Criando+e+explorando+tecnologia"/>
 
+<br><br>
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="SEU_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="SEU_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -13,7 +27,6 @@
 ## 🪻 Sobre mim
 
 ```txt
-não sei tudo, mas estou aprendendo.
 cada projeto é uma nova tentativa,
 cada erro faz parte do processo.
 ```
@@ -83,26 +96,6 @@ cada erro faz parte do processo.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adriellysoaresf&bg_color=0d1117&color=c8b6e2&line=8A63D2&point=ffffff&hide_border=true"/>
 
 </div>
-
----
-
-## 🌐 Redes
-
-<p align="left">
-
-<a href="SEU_GITHUB">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="SEU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
