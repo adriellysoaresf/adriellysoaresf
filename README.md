@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:1A1A2E&height=180&section=header&text=Welcome%20to%20Adrielly's%20Github&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
-
-<br>
+# Welcome to Adrielly's Github 🌙
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=C8B6E2&center=true&vCenter=true&width=500&lines=Estudante+de+Front-end;Aprendendo+algo+novo+todos+os+dias;Criando+e+explorando+tecnologia"/>
 
@@ -12,17 +10,11 @@
 
 <div align="center">
 
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin)](SEULINK)
 
-<a href="SEU_GITHUB">
-<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github)](SEULINK)
 
-<a href="SEU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram)](SEULINK)
 
 </div>
 
@@ -31,24 +23,40 @@
 # 🖤 Sobre mim
 
 ```txt
-Olá! Eu sou Adrielly 🌙
+Oii! Eu sou Adrielly 🌙
 
-Estudante de Front-end apaixonada
-por tecnologia, criatividade e design.
-
-Atualmente aprendendo:
-HTML • CSS • JavaScript
+Estudante de tecnologia apaixonada
+por criatividade, design e desenvolvimento.
 
 Tentando evoluir um passo de cada vez.
 ```
 
 ---
 
-# 🌿 Tecnologias
+# 🌿 Tecnologias e Ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,figma,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Canva-0D0D0D?style=for-the-badge&logo=canva"/>
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Front--End-0D0D0D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Back--End-0D0D0D?style=for-the-badge"/>
 
 </div>
 
@@ -78,17 +86,7 @@ Tentando evoluir um passo de cada vez.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&bg_color=0d1117&color=c8b6e2&line=8A63D2&point=ffffff&hide_border=true"/>
-
-</div>
-
----
-
-# ✨ Frase
-
-<div align="center">
-
-> “Pequenos passos também são progresso.”
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adriellysoaresf&bg_color=0d1117&color=c8b6e2&line=8A63D2&point=ffffff&hide_border=true"/>
 
 </div>
 
@@ -96,6 +94,6 @@ Tentando evoluir um passo de cada vez.
 
 <div align="center">
 
-### 🌙 vivendo, aprendendo e construindo aos poucos.
+### ✨ vivendo, aprendendo e construindo aos poucos.
 
 </div>
