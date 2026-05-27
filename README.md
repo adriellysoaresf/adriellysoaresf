@@ -69,19 +69,17 @@ criando projetos ✦
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=adriellysoaresf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=adriellysoaresf&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-&nbsp;&nbsp;
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriellysoaresf&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriellysoaresf&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com?user=adriellysoaresf&theme=tokyonight&hide_border=true&background=00000000"/>
+<img height="160em" src="https://streak-stats.demolab.com?user=adriellysoaresf&theme=tokyonight&hide_border=true"/>
 
 </div>
 
