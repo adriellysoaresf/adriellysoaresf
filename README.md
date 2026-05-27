@@ -7,7 +7,7 @@
 
 ### pretty girl loves coding <𝟑 .ᐟ
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=C8B6E2&center=true&vCenter=true&width=500&lines=Estudante+de+Front-end;Evoluindo+um+pouco+todos+os+dias;Criando+e+explorando+tecnologia"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=C8B6E2&center=true&vCenter=true&width=500&lines=Estudante+de+Front-end;Evoluindo+um+pouco+todos+os+dias;Criatividade+também+é+tecnologia"/>
 
 <br><br>
 
@@ -25,15 +25,19 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=adriellysoaresf&color=C8B6E2&style=flat-square"/>
+
+</div>
+
 
 ## ｡𖦹 Quem sou eu
 
 ```txt
 Oii, prazer! Adrielly :)
 
-aprendendo front-end
-explorando design
-criando projetos ✦
+Estudante de front-end explorando design, tecnologia e criatividade ✦
 ```
 
 
@@ -69,17 +73,7 @@ criando projetos ✦
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adriellysoaresf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriellysoaresf&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=adriellysoaresf&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adriellysoaresf&theme=tokyonight"/>
 
 </div>
 
@@ -93,4 +87,13 @@ criando projetos ✦
 
 </div>
 
+<br><br>
 
+<div align="center">
+
+> “Não há limites para o que você pode alcançar  
+> quando se permite sonhar e imaginar livremente.”
+
+— Neville Goddard 
+
+</div>
