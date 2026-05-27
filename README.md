@@ -23,7 +23,6 @@
 
 </div>
 
----
 
 ## ⏾⋆.˚ sobre mim
 
@@ -36,11 +35,10 @@ Oii! Eu sou Adrielly :)
 
 ```
 
----
 
 ## ✴︎ Tecnologias e Ferramentas
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=figma,git,github,vscode"/>
 
@@ -50,11 +48,10 @@ Oii! Eu sou Adrielly :)
 
 </p>
 
----
 
 ## ☁︎ Atualmente estudando
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
 
@@ -66,11 +63,11 @@ Oii! Eu sou Adrielly :)
 </p>
 
 ---
-## ☀︎ Statistics
+## ☀︎ GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adriellysoaresf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriellysoaresf&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
@@ -80,13 +77,12 @@ Oii! Eu sou Adrielly :)
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://streak-stats.demolab.com?user=adriellysoaresf&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
----
 
-## ⏾ Contribution Graph
+## ⏾ Activity Graph
 
 <div align="center">
 
