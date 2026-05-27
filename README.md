@@ -1,6 +1,7 @@
 <div align="center">
 
-# Welcome to Adrielly's Github 🌙
+# 「 ✦ Seja bem-vindo(a) ao meu GitHub ✦ 」
+### Adrielly Soares
 
 ### pretty girl loves coding <𝟑 .ᐟ
 
@@ -65,7 +66,7 @@ Oii! Eu sou Adrielly :)
 </p>
 
 ---
-# .ೀ Statistics
+## ☀︎ Statistics
 
 <div align="center">
 
@@ -85,7 +86,7 @@ Oii! Eu sou Adrielly :)
 
 ---
 
-# 🌌 Contribution Graph
+## ⏾ Contribution Graph
 
 <div align="center">
 
@@ -94,11 +95,3 @@ Oii! Eu sou Adrielly :)
 </div>
 ---
 
-<div align="center">
-
-> “cada projeto é uma nova tentativa,
-cada erro faz parte do processo..”
-
-</div>
-
----
