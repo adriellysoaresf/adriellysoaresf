@@ -2,9 +2,9 @@
 
 # Welcome to Adrielly's Github 🌙
 
-### pretty girl loves coding <3
+### pretty girl loves coding <𝟑 .ᐟ
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=C8B6E2&center=true&vCenter=true&width=500&lines=Estudante+de+Front-end;Aprendendo+algo+novo+todos+os+dias;Criando+e+explorando+tecnologia"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=C8B6E2&center=true&vCenter=true&width=500&lines=Estudante+de+Front-end;Evoluindo+um+pouco+todos+os+dias;Criando+e+explorando+tecnologia"/>
 
 <br><br>
 
@@ -24,20 +24,20 @@
 
 ---
 
-## 🪻 currently
+## ⏾⋆.˚ sobre mim
 
 ```txt
 Oii! Eu sou Adrielly :)
-
-```
 
 *aprendendo front-end
 *explorando design
 *criando projetos
 
+```
+
 ---
 
-## ⚙️ Tecnologias e Ferramentas
+## ✴︎ Tecnologias e Ferramentas
 
 <p align="left">
 
@@ -51,7 +51,7 @@ Oii! Eu sou Adrielly :)
 
 ---
 
-## 📚 Atualmente estudando
+## ☁︎ Atualmente estudando
 
 <p align="left">
 
@@ -65,7 +65,7 @@ Oii! Eu sou Adrielly :)
 </p>
 
 ---
-# 📊 Statistics
+# .ೀ Statistics
 
 <div align="center">
 
@@ -102,9 +102,3 @@ cada erro faz parte do processo..”
 </div>
 
 ---
-
-<div align="center">
-
-### ✨ morra com memórias, não com sonhos.
-
-</div>
