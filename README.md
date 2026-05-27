@@ -63,32 +63,36 @@ criando projetos ✦
 
 </p>
 
----
+<br>
+
 ## ☀︎ GitHub Stats
 
 <div align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=adriellysoaresf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=adriellysoaresf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriellysoaresf&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+&nbsp;&nbsp;
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriellysoaresf&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img width="60%" src="https://streak-stats.demolab.com?user=adriellysoaresf&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=adriellysoaresf&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
-
-
-## ⏾ Activity Graph
+## ⏾ Minha atividade
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adriellysoaresf&bg_color=0d1117&color=c8b6e2&line=8A63D2&point=ffffff&hide_border=true"/>
 
 </div>
----
+
 
