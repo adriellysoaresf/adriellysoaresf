@@ -2,67 +2,59 @@
 
 # Welcome to Adrielly's Github 🌙
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=C8B6E2&center=true&vCenter=true&width=500&lines=Estudante+de+Front-end;Aprendendo+algo+novo+todos+os+dias;Criando+e+explorando+tecnologia"/>
+### vivendo, aprendendo e construindo aos poucos.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=C8B6E2&center=true&vCenter=true&width=500&lines=Estudante+de+Front-end;Aprendendo+algo+novo+todos+os+dias;Criando+e+explorando+tecnologia"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin)](SEULINK)
-
-[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github)](SEULINK)
-
-[![Instagram](https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram)](SEULINK)
-
-</div>
-
----
-
-# 🖤 Sobre mim
+## 🪻 Sobre mim
 
 ```txt
-Oii! Eu sou Adrielly 🌙
-
-Estudante de tecnologia apaixonada
-por criatividade, design e desenvolvimento.
-
-Tentando evoluir um passo de cada vez.
+não sei tudo, mas estou aprendendo.
+cada projeto é uma nova tentativa,
+cada erro faz parte do processo.
 ```
+
+* 🎨 criando interfaces no Figma
+* 💻 explorando HTML, CSS e JavaScript
+* 🌱 aprendendo Front-end e Back-end
+* ☁️ evoluindo um pouco todos os dias
 
 ---
 
-# 🌿 Tecnologias e Ferramentas
+## ⚙️ Tecnologias e Ferramentas
 
-<div align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=figma,git,github,vscode"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Canva-0D0D0D?style=for-the-badge&logo=canva"/>
+<img src="https://img.shields.io/badge/Canva-181717?style=for-the-badge&logo=canva&logoColor=white"/>
 
-</div>
+</p>
 
 ---
 
-# 📚 Atualmente estudando
+## 📚 Atualmente estudando
 
-<div align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Front--End-0D0D0D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Back--End-0D0D0D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Front--End-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Back--End-181717?style=for-the-badge"/>
 
-</div>
+</p>
 
 ---
 
-# 📊 Estatísticas
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -72,7 +64,9 @@ Tentando evoluir um passo de cada vez.
 
 </div>
 
-<br>
+---
+
+## 🔥 Contribuições
 
 <div align="center">
 
@@ -82,7 +76,7 @@ Tentando evoluir um passo de cada vez.
 
 ---
 
-# 🌌 Gráfico de contribuições
+## 🌌 Gráfico de atividades
 
 <div align="center">
 
@@ -92,8 +86,36 @@ Tentando evoluir um passo de cada vez.
 
 ---
 
+## 🌐 Redes
+
+<p align="left">
+
+<a href="SEU_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="SEU_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 <div align="center">
 
-### ✨ vivendo, aprendendo e construindo aos poucos.
+> “Pequenos passos também são progresso.”
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ morra com memórias, não com sonhos.
 
 </div>
