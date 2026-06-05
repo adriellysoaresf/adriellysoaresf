@@ -37,7 +37,10 @@
 ```txt
 Oii, prazer! Adrielly :)
 
-Estudante de front-end explorando design, tecnologia e criatividade ✦
+Estudante de front-end em formação pelo programa Transforme-se, uma parceria entre o Instituto PROA e a Serasa Experian. ✦
+
+Aprendendo, criando e evoluindo um pouco todos os dias.
+
 ```
 
 
@@ -79,7 +82,7 @@ Estudante de front-end explorando design, tecnologia e criatividade ✦
 
 <br>
 
-## ⏾ Minha atividade
+## ✶ Minha atividade
 
 <div align="center">
 
