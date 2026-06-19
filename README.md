@@ -11,7 +11,7 @@
 
 <br><br>
 
-<a href="SEU_LINKEDIN">
+<a href="www.linkedin.com/in/adrielly-soares">
 <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
